@@ -17,7 +17,7 @@ I build production web platforms with React, Next.js, and Vue, with real API, au
 
 ### 👨‍💻 About me
 
-- 🧑‍⚕️ **5+ years** shipping production platforms across **health-tech** and **logistics**
+- 🧑‍⚕️ **4+ years** shipping production platforms across **health-tech** and **logistics**
 - 🌏 Based in Indonesia, open to **remote worldwide** and contract work
 - 🎯 Looking for **frontend-heavy Software Engineer** roles on product platforms and clinical systems
 - 🤖 Currently **learning AI engineering in public**: RAG, embeddings, and streaming LLM APIs
